@@ -21,7 +21,7 @@ You need the following items for one unit:
 |MV-LED PCB|1|
 
 ## PCB
-The MV-LED is a 150x40mm 1.6mm PCB. I used JLCPCB rules, but these gerbers will probably work with your favorite fab.
+The MV-LED is a 150x40mm 1.6mm PCB. I used JLCPCB rules, but these gerbers will probably work with your fab.
 
 ## CRE401
 The CRE401 RRC array is out of production, but I got you covered! [Check out the CRE401 Reproduction.](https://github.com/mourix/CRE401)
