@@ -4,6 +4,8 @@ This is a complete reverse engineering and redrawing of the SNK MV-LED credit co
 ![MV-LED_altium](https://raw.githubusercontent.com/mourix/MV-LED/main/Pictures/MV-LED_altium.jpg)
 
 # How do I make one?
+![MV-LED_assembly](https://raw.githubusercontent.com/mourix/MV-LED/main/Pictures/MV-LED_assembly.jpg)
+
 ## Bill of Materials
 You need the following items for one unit:
 
@@ -19,8 +21,6 @@ You need the following items for one unit:
 |74HC14|1|
 |74LS47|2|
 |MV-LED PCB|1|
-
-![MV-LED_assembly](https://raw.githubusercontent.com/mourix/MV-LED/main/Pictures/MV-LED_assembly.jpg)
 
 ## PCB
 The MV-LED is a 150x40mm 1.6mm PCB. I used JLCPCB rules, but these gerbers will probably work with your fab.
