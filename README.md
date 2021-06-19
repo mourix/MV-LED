@@ -20,6 +20,8 @@ You need the following items for one unit:
 |74LS47|2|
 |MV-LED PCB|1|
 
+![MV-LED_assembly](https://raw.githubusercontent.com/mourix/MV-LED/main/Pictures/MV-LED_assembly.jpg)
+
 ## PCB
 The MV-LED is a 150x40mm 1.6mm PCB. I used JLCPCB rules, but these gerbers will probably work with your fab.
 
